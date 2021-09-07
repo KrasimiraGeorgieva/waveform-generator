@@ -37,3 +37,7 @@ The **Waveform Generator API** can be used by Postman app
 |		|			|
 -----------------------------------------------------------------
 ```
+
+## License
+
+MIT
